@@ -1,0 +1,17 @@
+{
+  "name": "daftar-situs-judi-deposit-pulsa",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Slot Pulsa adalah situs slot online yang menawarkan deposit via pulsa tanpa potongan berdasarkan standarisasi dari Komunitas slot deposit pulsa Indonesia.",
+  "keywords": [
+    "slot Pulsa",
+    "slot online",
+    "slot gacor",
+    "slot deposit pulsa tanpa potongan"
+  ],
+  "repository": "https://github.com/pastibisadotcom/daftar-situs-judi-deposit-pulsa",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

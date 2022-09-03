@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle daftar-situs-judi-deposit-pulsa'
+      'command': 'daftar-situs-judi-deposit-pulsa:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'daftar-situs-judi-deposit-pulsa'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'daftar-situs-judi-deposit-pulsa:toggle'
+        }
+      ]
+    ]
+  }
+]
